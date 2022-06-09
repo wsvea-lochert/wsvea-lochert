@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning Human Pose Estimation and app development
 - 📫 You can reach me by Email: williamsvealochert@gmail.com
 
+---
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" **alt="TensorFlow" width="30" height="30"/>
@@ -20,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
 
----
+
 
 </div>
 
