@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @wsvea-lochert
+## Hello!🤖
+
+- 👋 I’m @wsvea-lochert
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Human Pose Estimation and Android development
+- 🎓 I have a Bachelors degree from Østfold University Collage and currently in the finishing stages of my M.Sc
+- 🌱 I’m currently learning Human Pose Estimation and app development
 - 📫 Reach me by Email: williamsvealochert@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsvea-lochert&hide=html&theme=prussian)](https://github.com/wsvea-lochert/github-readme-stats)
