@@ -1,10 +1,12 @@
-## Hello!🤖
+## <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> Hello!🤖
 
 - 👋 I’m @wsvea-lochert
-- 👀 I’m interested in Machine learning
-- 🎓 I have a Bachelors degree from Østfold University Collage and currently in the finishing stages of my M.Sc
+- 👀 I’m interested in machine learning and app development
+- 🎓 I have a Bachelors degree in informatics from HiØ and currently in the finishing stages of my M.Sc
 - 🌱 I’m currently learning Human Pose Estimation and app development
-- 📫 Reach me by Email: williamsvealochert@gmail.com
+- 📫 You can reach me by Email: williamsvealochert@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsvea-lochert&hide=html&theme=prussian)](https://github.com/wsvea-lochert/github-readme-stats)
 
