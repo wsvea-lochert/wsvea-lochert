@@ -26,9 +26,11 @@
 
 </div>
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wsvea-lochert&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/wsvea-lochert/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsvea-locherta&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsvea-lochert&layout=compact&theme=vision-friendly-dark){ width="800" height="600" style="display: block; margin: 0 auto" }](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsvea-lochert&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
