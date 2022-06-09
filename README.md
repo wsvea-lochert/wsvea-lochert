@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Human Pose Estimation and Android development
 - 📫 Reach me by Email: williamsvealochert@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsvea-lochert&hide=html)](https://github.com/wsvea-lochert/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsvea-lochert&hide=html&theme=prussian)](https://github.com/wsvea-lochert/github-readme-stats)
 
 <!-- - 💞️ I’m looking to collaborate on stuff-->
 
