@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning Human Pose Estimation and app development
 - 📫 You can reach me by Email: williamsvealochert@gmail.com
 
----
-
-### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" **alt="TensorFlow" width="30" height="30"/>
