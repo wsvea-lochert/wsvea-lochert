@@ -28,7 +28,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsvea-lochert&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats#center)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsvea-lochert&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 
 
