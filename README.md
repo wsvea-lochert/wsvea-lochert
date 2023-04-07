@@ -2,8 +2,8 @@
 
 - 👋 I’m @wsvea-lochert
 - 👀 I’m interested in machine learning and app development
-- 🎓 I have a Bachelors degree in informatics from HiØ and currently in the finishing stages of my M.Sc
-- 🌱 I’m currently learning Human Pose Estimation and app development
+- 🎓 I have a Bachelors degree in informatics, and a master in Applied computer science from HiØ
+- 🌱 I’m currently alot of work stuff
 - 📫 You can reach me by Email: williamsvealochert@gmail.com
 
 ---
