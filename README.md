@@ -1,6 +1,6 @@
 ## Hello!🤖
 
-
+🛒 **[Kjoply](kjoply.svea-lochert.no)** Collabarative list application, for easier shopping and packing 
 
 
 
