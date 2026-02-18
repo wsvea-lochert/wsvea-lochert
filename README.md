@@ -1,5 +1,6 @@
 ## Hello!🤖
 
+👨🏼‍💻 **[Portfolio](www.svea-lochert.no)** Portfolio page
 🛒 **[Kjoply](kjoply.svea-lochert.no)** Collabarative list application, for easier shopping and packing 
 
 
