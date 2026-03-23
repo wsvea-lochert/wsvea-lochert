@@ -1,7 +1,7 @@
 ## Hello!🤖
 
-* 👨🏼‍💻 **[Portfolio](www.svea-lochert.no)** Portfolio page
-* 🛒 **[Kjoply](kjoply.svea-lochert.no)** Collabarative list application, for easier shopping and packing
+* 👨🏼‍💻 **[Portfolio](https://www.svea-lochert.no)** Portfolio page
+* 🛒 **[Kjoply](https://kjoply.svea-lochert.no)** Collabarative list application, for easier shopping and packing
 * 📝 **[Yana](https://github.com/wsvea-lochert/yana)** Yana note taking application
 * 🎯 **[One More thing](https://github.com/wsvea-lochert/OneMoreThing)** TODO list in the browser, no cloud
 
